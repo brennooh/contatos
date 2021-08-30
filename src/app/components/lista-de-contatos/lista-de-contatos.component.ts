@@ -12,7 +12,7 @@ export class ListaDeContatosComponent implements OnInit {
     {
       nome:"Smith Weber Jagerr Man Jansen",
       email: "thenumberone@gmail.com",
-      telefones:['1111-1111']
+      telefones:['1111-1111', '1212-1212']
     },
     {
       nome:"Ms Puff",
